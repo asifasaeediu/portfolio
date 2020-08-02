@@ -1,0 +1,43 @@
+﻿body {
+    background-image: url("https://images.unsplash.com/photo-1524408504872-4d40d453c67f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1534&q=80");
+}
+h1 {
+    margin-top: 200px;
+    margin-left: 30px;
+    color: white;
+    font-size: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: left;
+    font-weight: 900;
+}
+
+p{
+    margin-left:30px;
+    margin-top:1px;
+    color:white;
+    font-size:30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align:left
+}
+a{
+    color: white;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+}
+div {
+    margin-top:20px;
+    text-align: center;
+
+}
+a.hlink {
+    padding: 0px 20px;
+}
+a.alink {
+    padding: 0px 20px;
+}
+
+
+
+
